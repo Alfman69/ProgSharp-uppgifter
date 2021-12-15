@@ -8,7 +8,7 @@ namespace TutProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(AntalISträng('o', "orvar käkar kooooorvar"));
+            Console.WriteLine(AntalISträng('o', "orvar käkar korvar"));
         }
         static int AntalISträng(char tecken, string text)
         {
